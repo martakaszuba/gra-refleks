@@ -1,0 +1,66 @@
+* {
+    font-family:"Open Sans";
+}
+
+.pro {
+    width:50px;
+    height:50px;
+    border:1px solid black;
+    float:left;
+}
+
+#game {
+    width:260px;
+    height:260px;
+    padding:24px 15px;
+    margin:0 auto;
+}
+
+#main {
+    width:400px;
+    height:420px;
+    margin:20px auto;
+}
+
+.item {
+width:80px;
+height:50px;
+float:left;
+padding: 2px 10px;
+}
+
+.item2 {
+width:120px;
+height:50px;
+float:right;
+padding: 2px 10px;
+}
+
+#data {
+    width:400px;
+    height:50px;
+    margin-bottom:10px;
+}
+
+h3, p {
+    text-align:center;
+}
+
+#buttons {
+    text-align:center;
+}
+
+button {
+    background-color:rgb(138, 133, 133);
+    border:none;
+    font-size:16px;
+    padding:7px 10px;
+    margin-right:6px;
+    cursor:pointer;
+    border:1px solid rgb(165, 159, 162);
+    color:white;
+}
+
+button:hover {
+    background-color:rgb(143, 149, 150);
+}
